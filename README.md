@@ -1,7 +1,7 @@
 # Hi, I'm Akhmed!
 
 ## About Me
-I am a self-taught iOS developer with expertise in Swift and SwiftUI. Through online courses, I honed my skills and now have hands-on experience in developing iOS applications. I'm proud to have built and published an app for Umra on the App Store, which is continuously evolving.
+I am iOS developer with expertise in Swift and SwiftUI. Through online courses, I honed my skills and now have hands-on experience in developing iOS applications. I'm proud to have built and published an app for Umra on the App Store, which is continuously evolving.
 
 ## Key Skills
 - **Swift & SwiftUI**: Proficient in writing clean and efficient code using Swift and creating captivating user interfaces with SwiftUI.
