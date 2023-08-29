@@ -5,6 +5,7 @@ I am iOS developer with expertise in Swift and SwiftUI. Through online courses, 
 
 ## Key Skills
 - **Swift & SwiftUI**: Proficient in writing clean and efficient code using Swift and creating captivating user interfaces with SwiftUI.
+- **Core ML**: Experienced in integrating machine learning capabilities into iOS applications using Core ML, enabling smarter and more personalized user experiences.
 - **Git & GitHub**: Experienced in version control using Git and proficient in collaborating with others using GitHub.
 - **MVC & MVVM**: Familiar with software architecture patterns like Model-View-Controller (MVC) and Model-View-ViewModel (MVVM) for creating scalable and maintainable codebases.
 - **Scrum**: Well-versed in Agile development methodologies, including an understanding of Scrum principles for effective project management and team collaboration.
