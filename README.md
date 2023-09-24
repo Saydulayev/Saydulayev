@@ -1,24 +1,41 @@
-# Hi, I'm Akhmed!
 
-## About Me
-I am iOS developer with expertise in Swift and SwiftUI. Through online courses, I honed my skills and now have hands-on experience in developing iOS applications. I'm proud to have built and published an app for Umra on the App Store, which is continuously evolving.
 
-## Key Skills
-- **Swift & SwiftUI**: Proficient in writing clean and efficient code using Swift and creating captivating user interfaces with SwiftUI.
-- **Core ML**: Experienced in integrating machine learning capabilities into iOS applications using Core ML, enabling smarter and more personalized user experiences.
-- **Git & GitHub**: Experienced in version control using Git and proficient in collaborating with others using GitHub.
-- **MVC & MVVM**: Familiar with software architecture patterns like Model-View-Controller (MVC) and Model-View-ViewModel (MVVM) for creating scalable and maintainable codebases.
-- **Scrum**: Well-versed in Agile development methodologies, including an understanding of Scrum principles for effective project management and team collaboration.
+# Hi, I'm Akhmed! 
 
-## Current Endeavors
-I am actively working on enhancing the Umra application by incorporating user feedback, optimizing performance, and exploring new features to provide an exceptional user experience. Additionally, I am continuously expanding my knowledge and skills in Swift, SwiftUI, and iOS development in general, to stay up to date with the latest advancements in the field.
+## 📌 About Me
+I am an iOS developer passionate about crafting intuitive and dynamic applications. My journey in the realm of iOS development began with online courses, and now, I pride myself on creating and maintaining an app for Umra, available on the App Store.
 
-## Open to Collaboration
-I am open to collaborating with other developers and designers who share a passion for iOS development. If you have exciting projects or ideas and are looking for a dedicated team member, feel free to reach out. I am eager to contribute my skills and expertise to meaningful projects and work collaboratively to achieve great results.
+https://apps.apple.com/us/app/umra-guide/id1673683355
 
-## Get in Touch
-- GitHub: [https://github.com/Saydulayev]
-- LinkedIn: [https://www.linkedin.com/in/akhmed-saydulayev-0b7582270/]
-- Email: [saydulayev.wien@gmail.com]
+## 🛠️ Key Skills
+- **Swift & SwiftUI**: Proficient in writing clean, performant, and secure code using Swift. Adept at crafting intuitive user interfaces with SwiftUI.
+  
+- **Core Data**: Hands-on experience managing persistent data storage in iOS apps using Core Data.
+  
+- **Core ML**: Integrated machine learning models into applications to enhance user experience and offer predictive capabilities.
 
-Feel free to connect with me for discussions related to iOS development, code reviews, or any exciting opportunities. Let's connect and create something amazing together!
+- **Git & GitHub**: Mastered the art of version control using Git and collaboration with GitHub, ensuring smooth teamwork and codebase management.
+  
+- **MVC & MVVM**: Understand and utilize software architecture patterns to structure my apps efficiently and maintainably.
+  
+- **CocoaPods & Swift Package Manager**: Proficient in dependency management tools to integrate third-party libraries seamlessly.
+  
+- **Continuous Integration (CI) & Continuous Deployment (CD)**: Experience setting up CI/CD pipelines for automated testing and deployment.
+
+- **Scrum**: An agile enthusiast with hands-on experience in Scrum methodology, ensuring projects stay on track and meet quality standards.
+
+## 🔍 Current Endeavors
+Currently, I'm focused on elevating the Umra application. Gathering feedback, optimizing user experience, and innovating with new features are my prime objectives. I also dedicate time every day to learn about the newest advancements in Swift, SwiftUI, and the broader iOS ecosystem, ensuring that my skills are razor-sharp and up-to-date.
+
+## 🤝 Open to Collaboration
+Looking to join forces with fellow developers, designers, and content creators. If you're on the lookout for someone who brings dedication, skill, and a touch of innovation to the table, don't hesitate to connect!
+
+## 📬 Get in Touch
+- **GitHub**: [Akhmed's Repositories](https://github.com/Saydulayev)
+- **LinkedIn**: [Connect with me!](https://www.linkedin.com/in/akhmed-saydulayev-0b7582270/)
+- **Email**: [saydulayev.wien@gmail.com](mailto:saydulayev.wien@gmail.com)
+
+Whether it's a discussion on iOS paradigms, a code review session, or a revolutionary app idea, I'm all ears. Let's synergize and craft digital marvels!
+
+
+
