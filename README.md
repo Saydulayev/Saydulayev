@@ -3,12 +3,19 @@
 # Hi, I'm Akhmed! 
 
 ## 📌 About Me
-I am an iOS developer passionate about crafting intuitive and dynamic applications. My journey in the realm of iOS development began with online courses, and now, I pride myself on creating and maintaining an app for Umra, available on the App Store.
+I am an iOS developer passionate about crafting intuitive and dynamic applications. My journey in the realm of iOS development began with online courses. Today, I pride myself on the skills and expertise I've acquired, enabling me to develop various applications available on the App Store.
 
-https://apps.apple.com/us/app/umra-guide/id1673683355
+## Links
+[Umra](https://apps.apple.com/us/app/umra-guide/id1673683355)
+
+[Книжный червь](https://apps.apple.com/app/id6469687798)
 
 ## 🛠️ Key Skills
 - **Swift & SwiftUI**: Proficient in writing clean, performant, and secure code using Swift. Adept at crafting intuitive user interfaces with SwiftUI.
+  
+- **Codable & JSONDecoder**: Efficient in decoding data from JSON, transforming it into native Swift types, ensuring reliable data handling.
+  
+- **URLSession**: Skilled in executing network requests, fetching data from external sources, and managing responses, ensuring seamless online interactions.
   
 - **Core Data**: Hands-on experience managing persistent data storage in iOS apps using Core Data.
   
