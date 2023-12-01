@@ -29,7 +29,7 @@ I am an iOS developer passionate about crafting intuitive and dynamic applicatio
   
 - **Continuous Integration (CI) & Continuous Deployment (CD)**: Experience setting up CI/CD pipelines for automated testing and deployment.
 
-- **Scrum**: An agile enthusiast with hands-on experience in Scrum methodology, ensuring projects stay on track and meet quality standards.
+- **Scrum**
 
 ## 🔍 Current Endeavors
 Currently, I'm focused on elevating the Umra application. Gathering feedback, optimizing user experience, and innovating with new features are my prime objectives. I also dedicate time every day to learn about the newest advancements in Swift, SwiftUI, and the broader iOS ecosystem, ensuring that my skills are razor-sharp and up-to-date.
