@@ -11,25 +11,19 @@ I am an iOS developer passionate about crafting intuitive and dynamic applicatio
 [Книжный червь](https://apps.apple.com/app/id6469687798)
 
 ## 🛠️ Key Skills
-- **Swift & SwiftUI**: Proficient in writing clean, performant, and secure code using Swift. Adept at crafting intuitive user interfaces with SwiftUI.
-  
-- **Codable & JSONDecoder**: Efficient in decoding data from JSON, transforming it into native Swift types, ensuring reliable data handling.
-  
-- **URLSession**: Skilled in executing network requests, fetching data from external sources, and managing responses, ensuring seamless online interactions.
-  
-- **Core Data**: Hands-on experience managing persistent data storage in iOS apps using Core Data.
-  
-- **Core ML**: Integrated machine learning models into applications to enhance user experience and offer predictive capabilities.
 
-- **Git & GitHub**: Mastered the art of version control using Git and collaboration with GitHub, ensuring smooth teamwork and codebase management.
-  
-- **MVC & MVVM**: Understand and utilize software architecture patterns to structure my apps efficiently and maintainably.
-  
-- **CocoaPods & Swift Package Manager**: Proficient in dependency management tools to integrate third-party libraries seamlessly.
-  
-- **Continuous Integration (CI) & Continuous Deployment (CD)**: Experience setting up CI/CD pipelines for automated testing and deployment.
-
+- **Swift & SwiftUI**
+- **Combine**
+- **Codable & JSONDecoder**
+- **URLSession**
+- **Core Data**
+- **Core ML**
+- **Git & GitHub**
+- **MVC & MVVM**
+- **CocoaPods & Swift Package Manager**
+- **Continuous Integration (CI) & Continuous Deployment (CD)**
 - **Scrum**
+
 
 ## 🔍 Current Endeavors
 Currently, I'm focused on elevating the Umra application. Gathering feedback, optimizing user experience, and innovating with new features are my prime objectives. I also dedicate time every day to learn about the newest advancements in Swift, SwiftUI, and the broader iOS ecosystem, ensuring that my skills are razor-sharp and up-to-date.
