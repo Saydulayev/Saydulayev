@@ -1,5 +1,3 @@
-
-
 # Hi, I'm Akhmed! 
 
 ## 📌 About Me
@@ -16,6 +14,7 @@ I am an iOS developer passionate about crafting intuitive and dynamic applicatio
 - **Combine**
 - **Codable & JSONDecoder**
 - **URLSession**
+- **REST API Integration**
 - **Core Data**
 - **Core ML**
 - **Git & GitHub**
@@ -23,7 +22,6 @@ I am an iOS developer passionate about crafting intuitive and dynamic applicatio
 - **CocoaPods & Swift Package Manager**
 - **Continuous Integration (CI) & Continuous Deployment (CD)**
 - **Scrum**
-
 
 ## 🔍 Current Endeavors
 Currently, I'm focused on elevating the Umra application. Gathering feedback, optimizing user experience, and innovating with new features are my prime objectives. I also dedicate time every day to learn about the newest advancements in Swift, SwiftUI, and the broader iOS ecosystem, ensuring that my skills are razor-sharp and up-to-date.
@@ -37,6 +35,3 @@ Looking to join forces with fellow developers, designers, and content creators. 
 - **Email**: [saydulayev.wien@gmail.com](mailto:saydulayev.wien@gmail.com)
 
 Whether it's a discussion on iOS paradigms, a code review session, or a revolutionary app idea, I'm all ears. Let's synergize and craft digital marvels!
-
-
-
