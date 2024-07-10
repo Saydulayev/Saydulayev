@@ -21,7 +21,8 @@ I am an iOS developer passionate about crafting intuitive and dynamic applicatio
 - **MVC & MVVM**
 - **CocoaPods & Swift Package Manager**
 - **Continuous Integration (CI) & Continuous Deployment (CD)**
-- **Scrum**
+- **Network**
+- **WebView**
 
 ## 🔍 Current Endeavors
 Currently, I'm focused on elevating the Umra application. Gathering feedback, optimizing user experience, and innovating with new features are my prime objectives. I also dedicate time every day to learn about the newest advancements in Swift, SwiftUI, and the broader iOS ecosystem, ensuring that my skills are razor-sharp and up-to-date.
