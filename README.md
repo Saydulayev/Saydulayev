@@ -18,7 +18,7 @@ I am an iOS developer passionate about crafting intuitive and dynamic applicatio
 - **Core Data**
 - **Core ML**
 - **Git & GitHub**
-- **MVC & MVVM**
+- **MVC, MVVM & VIPER**
 - **CocoaPods & Swift Package Manager**
 - **Continuous Integration (CI) & Continuous Deployment (CD)**
 - **Network**
