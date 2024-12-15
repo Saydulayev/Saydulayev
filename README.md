@@ -10,19 +10,36 @@ I am an iOS developer passionate about crafting intuitive and dynamic applicatio
 
 ## 🛠️ Key Skills
 
-- **Swift & SwiftUI**
-- **Combine**
-- **Codable & JSONDecoder**
-- **URLSession**
-- **REST API Integration**
-- **Core Data**
-- **Core ML**
-- **Git & GitHub**
-- **MVC, MVVM & VIPER**
-- **CocoaPods & Swift Package Manager**
-- **Continuous Integration (CI) & Continuous Deployment (CD)**
-- **Network**
-- **WebView**
+### **🛠 Languages & Frameworks**  
+- **Swift & SwiftUI**  
+- **Combine**  
+
+### **🌐 Networking**  
+- **URLSession**  
+- **REST API Integration**  
+- **Async/Await**  
+- **GCD (Grand Central Dispatch)**  
+
+### **📦 Data Management**  
+- **Codable & JSONDecoder**  
+- **Core Data, SwiftData**  
+- **CloudKit**  
+
+### **🤖 Machine Learning**  
+- **Core ML**  
+
+### **📂 Architecture & Patterns**  
+- **MVC, MVVM & VIPER**  
+
+### **⚙️ Tools & Workflow**  
+- **Git & GitHub**  
+- **CocoaPods & Swift Package Manager**  
+- **Continuous Integration (CI) & Continuous Deployment (CD)**  
+
+### **📲 Additional Skills**  
+- **Network**  
+- **WebView**  
+
 
 ## 🔍 Current Endeavors
 Currently, I'm focused on elevating the Umra application. Gathering feedback, optimizing user experience, and innovating with new features are my prime objectives. I also dedicate time every day to learn about the newest advancements in Swift, SwiftUI, and the broader iOS ecosystem, ensuring that my skills are razor-sharp and up-to-date.
