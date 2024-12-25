@@ -12,7 +12,8 @@ I am an iOS developer passionate about crafting intuitive and dynamic applicatio
 
 ### **🛠 Languages & Frameworks**  
 - **Swift & SwiftUI**  
-- **Combine**  
+- **Combine**
+- **Core Image** 
 
 ### **🌐 Networking**  
 - **URLSession**  
