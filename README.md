@@ -62,7 +62,7 @@ Whether it's a discussion on iOS paradigms, a code review session, or a revoluti
 
 
 
-### **Русский**  
+# **Русский**  
 
 ### **Привет, я Ахмед!**  
 Я iOS-разработчик, специализирующийся на **Swift** и **SwiftUI**, с акцентом на создание интуитивно понятных и значимых приложений. У меня есть опыт проектирования, разработки и публикации iOS-приложений, включая успешный запуск их в **App Store**.
@@ -126,7 +126,7 @@ Whether it's a discussion on iOS paradigms, a code review session, or a revoluti
 
 ---
 
-### **Deutsch**  
+# **Deutsch**  
 
 ### **Hallo, ich bin Akhmed!**  
 
