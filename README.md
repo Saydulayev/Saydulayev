@@ -1,9 +1,9 @@
-# Hi, I'm Akhmed! 👋
-
 ## 🌍 Select your language:  
 - [🇬🇧 English](#english)  
 - [🇷🇺 Русский](#русский)  
 - [🇩🇪 Deutsch](#deutsch)  
+
+# Hi, I'm Akhmed! 👋
 
 ## 📌 About Me  
 I am an iOS developer specializing in **Swift** and **SwiftUI**, with a strong focus on creating intuitive and impactful applications. I have experience designing, building, and publishing several iOS applications, including successfully launching them on the **App Store**.
