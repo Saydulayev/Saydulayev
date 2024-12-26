@@ -1,5 +1,4 @@
 ## 🌍 Select your language:  
-- [🇬🇧 English](#english)  
 - [🇷🇺 Русский](#русский)  
 - [🇩🇪 Deutsch](#deutsch)  
 
