@@ -1,4 +1,4 @@
-# Ахмед — iOS-разработчик
+# Ахмед iOS Developer
 
 ## 🌐 Портфолио   
 [Resume](https://saydulayev.github.io/resume/)
