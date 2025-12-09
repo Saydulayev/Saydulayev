@@ -74,9 +74,22 @@
 
 ### **Umra**
 
-<a href="https://apps.apple.com/us/app/umra-guide/id1673683355" target="_blank">
-  <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/ru-ru?size=250x83" alt="Загрузить в App Store" />
-</a>
+<div style="display: flex; gap: 12px; align-items: center;">
+  <a href="https://apps.apple.com/us/app/umra-guide/id1673683355" target="_blank">
+    <img 
+      src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/ru-ru?size=250x83"
+      style="height:55px; width:auto; max-width:180px;"
+    />
+  </a>
+
+  <a href="https://play.google.com/store/apps/details?id=saydulayev.wien_gmail.com.umra" target="_blank">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"
+      style="height:55px; width:auto; max-width:180px;"
+    />
+  </a>
+</div>
+
  
 Приложение достигло **30 000+ скачиваний** и удерживает рейтинг **5.0 ⭐** в App Store.
 
