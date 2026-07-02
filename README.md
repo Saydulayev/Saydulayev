@@ -1,4 +1,4 @@
-# Akhmed Saydulayev
+# Saydulayev
 
 **iOS Developer — Swift · SwiftUI · Flutter**
 
