@@ -1,148 +1,86 @@
-# Saydulayev
-### iOS Developer
+# Akhmed Saydulayev
 
-📍 Vienna, Austria
+**iOS Developer — Swift · SwiftUI · Flutter**
 
-## 🌐 Portfolio
-[Resume](https://saydulayev.github.io/resume/)
+Vienna, Austria · [Resume](https://saydulayev.github.io/resume/) · [LinkedIn](https://www.linkedin.com/in/akhmed-saydulayev-0b7582270/) · saydulayev.wien@gmail.com
 
 ---
 
-## 📌 About Me
+## About
 
-I am an iOS Developer specializing in **Swift** and **SwiftUI**, focused on building reliable, user-friendly, and maintainable applications. I have hands-on experience designing, developing, and publishing production-ready iOS applications, including successful releases on the **App Store**.
-
-In addition to mobile development, I have experience creating modern, responsive, and SEO-optimized websites using contemporary web technologies. I am committed to clean architecture principles, modern development practices, and delivering high-quality software.
+iOS developer with production apps live on the App Store and Google Play. I build native apps with Swift and SwiftUI, and took my flagship product cross-platform with a full Flutter rewrite to reach Android — **40,000+ downloads** combined and a **4.9★ App Store rating**. I also build responsive, SEO-optimized websites for clients. I care about clean architecture, test coverage, accessibility, and maintainable code that scales over time.
 
 ---
 
-## 📱 Featured Projects
+## Featured project — Umra Guide
 
-### **Umra**
-
-<div style="display: flex; gap: 12px; align-items: center;">
-  <a href="https://apps.apple.com/us/app/umra-guide/id1673683355" target="_blank">
-    <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/us-uk?size=250x83" style="height:55px; width:auto; max-width:180px;" />
+<p>
+  <a href="https://apps.apple.com/us/app/umra-guide/id1673683355">
+    <img
+      src="assets/app-store.svg"
+      alt="Download on the App Store"
+      width="160"
+    />
   </a>
-  <a href="https://play.google.com/store/apps/details?id=saydulayev.wien_gmail.com.umra" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" style="height:55px; width:auto; max-width:180px;" />
+  &nbsp;
+  <a href="https://play.google.com/store/apps/details?id=saydulayev.wien_gmail.com.umra">
+    <img
+      src="assets/google-play.svg"
+      alt="Get it on Google Play"
+      width="180"
+    />
   </a>
-</div>
+</p>
 
-A production mobile application with more than **40,000 downloads** and a **5.0 ⭐ App Store rating** based on user reviews.
+A step-by-step Umrah companion featuring audio guidance with du'a pronunciation, prayer times with scheduled notifications, Hijri calendar, tawaf counter, and full localization in seven languages including RTL Arabic.
 
-**Highlights:**
-- Designed, developed, and published for iOS and Android platforms.
-- Built using modern SwiftUI architecture and native Apple frameworks.
-- Implemented scalable architecture following MVVM and Clean Architecture principles.
-- Continuously maintained and improved through multiple releases.
-- Focused on performance, usability, accessibility, and long-term maintainability.
+**40,000+ downloads · 4.9★ App Store rating**
 
-**Technologies:** Swift, SwiftUI, CloudKit, StoreKit, Swift Concurrency, Core Data, SwiftData, UserNotifications
+The product has shipped in two generations:
 
----
+- **[umra](https://github.com/Saydulayev/umra)** — the original native iOS application built with SwiftUI, MVVM, StoreKit, UserNotifications, and background audio.
+- **[umra_flutter](https://github.com/Saydulayev/umra_flutter)** — the current cross-platform version for iOS and Android using Flutter, Provider, in-app purchases, prayer-time notification scheduling, localization (7 languages, RTL support), ~130 unit and widget tests, and GitHub Actions CI.
 
-### **MontWerk e.U. – Website**
-
-**🔗 [montwerk.at](https://montwerk.at)**
-
-A professional website developed for a kitchen and furniture installation company based in Vienna. Designed and built from scratch using modern web technologies.
-
-**Key Features:**
-- ✨ Modern responsive design with dark and light theme support
-- 📱 Fully responsive Mobile-First layout
-- 🔍 Comprehensive SEO optimization (meta tags, Open Graph, Twitter Cards, JSON-LD structured data)
-- ♿ Accessibility-focused implementation using semantic HTML and ARIA attributes
-- ⚡ Performance optimization through lazy loading and optimized assets
-- 🎨 Smooth animations and interactive UI components
-- 🍪 GDPR-compliant cookie consent banner
-- 📞 WhatsApp integration and contact forms
-- 🗺️ Sitemap.xml and robots.txt support
-
-**Technologies:** HTML5, CSS3, JavaScript, SEO, Accessibility
+Taking one product from a native SwiftUI codebase to Flutter while keeping it live in both stores gave me end-to-end experience in architecture, migration, testing, CI/CD, App Store & Google Play releases, and long-term maintenance.
 
 ---
 
-## 🛠️ Core Skills
+## Client work — MontWerk e.U.
 
-### **🛠 Languages & Frameworks**
-- **Swift & SwiftUI** (iOS 17+, modern APIs)
-- **Swift Concurrency** (async/await, Task, Actors)
-- **Observation API** (@Observable, @Bindable, @Environment)
-- **Combine**
-- **Core Image**
+**[montwerk.at](https://montwerk.at)** — website for a Vienna-based kitchen and furniture installation company, built from scratch using vanilla HTML, CSS, and JavaScript.
 
-### **🌐 Networking & Data**
-- **URLSession** (REST APIs)
-- **Async/Await**
-- **Grand Central Dispatch (GCD)**
-- **Codable & JSONDecoder**
-- **CloudKit**
+Highlights:
 
-### **📦 Data Management & Persistence**
-- **Core Data & SwiftData**
-- **UserDefaults**
-- **File System Management**
-- **Repository Pattern**
-
-### **🏗️ Architecture & Design Patterns**
-- **MVVM**
-- **Clean Architecture**
-- **SOLID**
-- **Use Cases**
-- **Dependency Injection**
-- **Strategy Pattern**
-- **Protocol-Oriented Programming**
-
-### **📱 iOS Frameworks & APIs**
-- **NavigationStack**
-- **StoreKit**
-- **UserNotifications**
-- **MessageUI**
-- **LocalAuthentication (Face ID / Touch ID)**
-- **MapKit**
-
-### **🌍 Localization & Accessibility**
-- **NSLocalizedString**
-- **VoiceOver**
-- **Dynamic Type**
-
-### **🌐 Web Development**
-- **HTML5 & CSS3** (modern standards, CSS Grid, Flexbox)
-- **JavaScript (ES6+)** (Vanilla JavaScript, DOM API)
-- **Responsive Design** (Mobile-First approach)
-- **SEO Optimization** (meta tags, JSON-LD structured data, sitemap.xml)
-- **Accessibility (a11y)** (ARIA attributes, semantic HTML, screen reader support)
-- **Performance Optimization** (image optimization, lazy loading, minification)
-- **Dark & Light Themes**
-- **Interactive UI Components** (accordions, mobile navigation, smooth animations)
-
-### **⚙️ Tools**
-- **Git & GitHub**
-- **CocoaPods & Swift Package Manager**
-- **Xcode**
-- **CI/CD**
-- **SwiftLint**
-
-### **🤖 Machine Learning**
-- **Core ML**
+- Responsive mobile-first design
+- Dark & light themes
+- SEO (Open Graph, JSON-LD structured data)
+- Accessibility (semantic HTML, ARIA)
+- GDPR-compliant cookie consent
 
 ---
 
-## 🟦 Additional Experience (Flutter)
+## Skills
 
-Basic experience developing cross-platform applications with **Flutter** and **Dart**. Worked with **GetX** for navigation and state management, REST API integration, data modeling, and UI implementation.
+**iOS** — Swift, SwiftUI, Swift Concurrency (async/await, actors), Observation API, Combine
+
+**Architecture** — MVVM, Clean Architecture, SOLID, dependency injection, protocol-oriented programming
+
+**Data & Services** — URLSession / REST APIs, Core Data, SwiftData, StoreKit, UserNotifications
+
+**Apple Frameworks** — MapKit, LocalAuthentication (Face ID / Touch ID), Core Image
+
+**Cross-platform** — Flutter, Dart, Provider, in-app purchases, local notifications, flutter_test (unit & widget), GitHub Actions CI
+
+**Quality** — unit & widget testing, accessibility (VoiceOver, TalkBack, Dynamic Type, WCAG), localization (7 languages, RTL)
+
+**Web** — HTML5, CSS3, JavaScript (ES6+), SEO, accessibility
+
+**Tools** — Xcode, Swift Package Manager, CocoaPods, SwiftLint, Git, GitHub Actions
 
 ---
 
-## 🤝 Open to Collaboration
+## Contact
 
-Open to opportunities with teams and clients who value clean architecture, high-quality implementation, and modern development practices.
+Open to iOS, Flutter, and cross-platform mobile roles, as well as freelance projects.
 
----
-
-## 📬 Contact
-
-- **GitHub:** https://github.com/Saydulayev
-- **LinkedIn:** https://www.linkedin.com/in/akhmed-saydulayev-0b7582270/
-- **Email:** saydulayev.wien@gmail.com
+[GitHub](https://github.com/Saydulayev) · [LinkedIn](https://www.linkedin.com/in/akhmed-saydulayev-0b7582270/) · [Resume](https://saydulayev.github.io/resume/) · saydulayev.wien@gmail.com
